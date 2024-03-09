@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.css": "tailwindcss"
+    },
+    "editor.quickSuggestions": {
+        "strings": true
+    },
+    
+
+    
+
+    "editor.cursorBlinking": "expand",
+	"editor.cursorStyle": "line-thin",
+	"editor.cursorSmoothCaretAnimation": "explicit",
+}
+  
