@@ -15,20 +15,3 @@ export const useComments = () => {
     select: data => data.documents
   })
 };
-
-
-
-
-
-// select: data => {
-//   const newComment: IColumn[] = status.map(item => ({
-//     ...item,
-//     comments: []
-//   }))
-
-//   const document = data.documents as unknown as IDeal[]
-
-//   document.forEach((item) => {
-//     const newBoard = newComment.find((comment) => comment.id === item.status)
-//   })
-// }
